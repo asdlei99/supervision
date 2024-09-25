@@ -17,6 +17,12 @@ comments: true
 :::supervision.detection.utils.mask_iou_batch
 
 <div class="md-typeset">
+  <h2><a href="#supervision.detection.utils.oriented_box_iou_batch">oriented_box_iou_batch</a></h2>
+</div>
+
+:::supervision.detection.utils.oriented_box_iou_batch
+
+<div class="md-typeset">
   <h2><a href="#supervision.detection.utils.polygon_to_mask">polygon_to_mask</a></h2>
 </div>
 
@@ -75,6 +81,18 @@ comments: true
 </div>
 
 :::supervision.detection.utils.pad_boxes
+
+<div class="md-typeset">
+  <h2><a href="#supervision.detection.utils.xywh_to_xyxy">xywh_to_xyxy</a></h2>
+</div>
+
+:::supervision.detection.utils.xywh_to_xyxy
+
+<div class="md-typeset">
+  <h2><a href="#supervision.detection.utils.xcycwh_to_xyxy">xcycwh_to_xyxy</a></h2>
+</div>
+
+:::supervision.detection.utils.xcycwh_to_xyxy
 
 <div class="md-typeset">
   <h2><a href="#supervision.detection.utils.contains_holes">contains_holes</a></h2>
